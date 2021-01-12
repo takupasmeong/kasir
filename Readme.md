@@ -1,3 +1,5 @@
+### Abiyu Putra Aronggear
+### 19.11.2770
 # Study Case : Cashier
 aplikasi kasir cafe sederhana untuk memenuhi tugas UAS. Memiliki fungsi pembelian makanan dan minuman, penggunaan voucher atau promo serta penghitungan total makanan&minuman serta pemotongan harga menggunakan voucher.
 
